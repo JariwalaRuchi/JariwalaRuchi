@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Ruchi Jariwala
 
-<!--
-**JariwalaRuchi/JariwalaRuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | React | Next.js | TypeScript | AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.E. Computer Engineering Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Full Stack Developer Intern
+
+🌱 Currently learning:
+- Python
+- Artificial Intelligence
+- Generative AI
+- LangChain
+- RAG
+- Machine Learning
+
+💻 Tech Stack
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Supabase
+- PostgreSQL
+- Python
+- Git & GitHub
+
+🚀 Current Projects
+- AI Resume Copilot
+- AI Job Hunter Assistant
+
+📫 Reach me:
+- LinkedIn: (https://www.linkedin.com/in/ruchi-jariwala-b2a69a306/)
+- Email: ruchi.jariwala2@gmail.com
